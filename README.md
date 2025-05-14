@@ -1,6 +1,6 @@
 # Hi, I'm Murrel Miranda 👋  
 **Software Developer | AI & Cloud Specialist**  
-*AWS & Oracle Certified | Turning Data into Actionable Insights*
+![Profile Views](https://komarev.com/ghpvc/?username=MurrelM&color=blue&style=flat-square)  
 
 🔧 **Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
