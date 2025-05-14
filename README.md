@@ -27,8 +27,8 @@
 [![IBM Full Stack Developer](https://img.shields.io/badge/IBM-Full_Stack-052FAD?style=flat&logo=ibm)](your-ibm-cert-link)
 
 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome)](https://murrel.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/murrelmiranda/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome)](https://cozy-griffin-4492da.netlify.app/)  
 [![Resume](https://img.shields.io/badge/Resume-FF6C37?style=flat&logo=adobe-acrobat-reader)](https://github.com/MurrelM/Resume/releases/latest/download/MurrelM_Resume.pdf)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:murreimiranda12@gmail.com)
 
